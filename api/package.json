@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-api",
+  "version": "0.0.1",
+  "description": "Api para ecommerce",
+  "main": "index.js",
+  "author": "Jonathan Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.8",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.2",
+    "nodejs-pagseguro": "^1.0.9",
+    "nodemailer": "^6.6.0",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
